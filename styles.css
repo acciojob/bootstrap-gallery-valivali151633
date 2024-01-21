@@ -30,3 +30,6 @@
 .gallery-block.grid-gallery .item{
   margin-bottom: 20px;
 }
+h2 , h6 , p{
+	text-align:center;
+}
